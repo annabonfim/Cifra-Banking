@@ -1,0 +1,19 @@
+﻿# .NET
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+*.user
+*.suo
+*.userosscache
+.vs/
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Secrets (caso use User Secrets futuramente)
+*.user
